@@ -5,3 +5,4 @@ Git контроль версии
 # Git lesson 2
 git branch - вывод всех веток
 Git branch name - создание ветки
+git merge name - слияние веток
