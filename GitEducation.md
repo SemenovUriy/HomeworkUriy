@@ -6,3 +6,4 @@ Git контроль версии
 git branch - вывод всех веток
 Git branch name - создание ветки
 git log - вывод всех коммитов
+git merge name - слияние веток
