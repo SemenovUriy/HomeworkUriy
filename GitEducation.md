@@ -8,3 +8,4 @@ Git branch name - создание ветки
 git log - вывод всех коммитов
 git merge name - слияние веток
 Update
+Трутуту
